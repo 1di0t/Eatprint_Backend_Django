@@ -1,0 +1,5 @@
+.env
+/eatprint_server/__pycache__/
+/eatprint_venv
+.DS_Store
+.vscode/
